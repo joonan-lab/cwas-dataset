@@ -15,7 +15,7 @@
 2. Download the chain file for *LiftOver*
    * hg19ToHg38: https://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg18.over.chain.gz
 3. Download *CrossMap* for *LIftOver*
-   * *CrossMap* is a python package which supports *LiftOver*.
+   * *[CrossMap](https://crossmap.readthedocs.io/en/latest/)* is a python package which supports *LiftOver*.
    * This package makes BigWig file *LiftOver* much easier.
    *  Install this packge using the below command. (We assume you use Python 3.)
      ```bash
