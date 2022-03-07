@@ -14,6 +14,13 @@
   * PhyloP46way and PhastCons46Way
   * Because the original files are too big, we give you [a manual to create BigWig files for CWAS](bw_recipe.md).
 
+## How to Download?
+```
+git clone https://github.com/joonan-lab/cwas-dataset.git
+cd cwas-dataset
+git lfs pull
+```
+
 ## Notes
 
 * All the analyses in CWAS were based on **hg38**, so all the BED and BigWig files in this repository were also for hg38.
