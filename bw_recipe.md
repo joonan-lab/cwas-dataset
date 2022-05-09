@@ -13,7 +13,7 @@
    * Vertebrate PhastCons46way: https://hgdownload.soe.ucsc.edu/goldenPath/hg19/phastCons46way/vertebrate.phastCons46way.bw
    * Vertebrate PhyloP46way: https://hgdownload.soe.ucsc.edu/goldenPath/hg19/phyloP46way/vertebrate.phyloP46way.bw
 2. Download the chain file for *LiftOver*
-   * hg19ToHg38: https://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg18.over.chain.gz
+   * hg19ToHg38: http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz
 3. Download *CrossMap* for *LIftOver*
    * *[CrossMap](https://crossmap.readthedocs.io/en/latest/)* is a python package which supports *LiftOver*.
    * This package makes BigWig file *LiftOver* much easier.
