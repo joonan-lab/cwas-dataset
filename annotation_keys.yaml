@@ -34,5 +34,3 @@ functional_annotation:
   bamo_vistaEnhancerUCSC.hg19to38.sorted.bed.gz: EnhancerVista
   fantom5.enhancer.robust.hg19to38.sorted.bed.gz: EnhancerFantom
   hg19_HARs_Doan2016.hg19to38.sorted.bed.gz: HARs
-  vertebrate.phastCons46way.hg19ToHg38.bw: phastCons46way
-  vertebrate.phyloP46way.hg19ToHg38.bw: phyloP46way
