@@ -21,6 +21,9 @@ wget https://personal.broadinstitute.org/konradk/loftee_data/GRCh38/gerp_conserv
 
 #VEP_LOFTEE
 cd Plugins
-git clone -b grch38 https://github.com/konradjk/loftee.git
+# check the latest release
+wget https://github.com/konradjk/loftee/archive/refs/tags/v1.0.4_GRCh38.tar.gz
+tar -zxvf v1.0.4_GRCh38.tar.gz
+mv loftee-1.0.4_GRCh38 loftee
 
 echo "Done"
